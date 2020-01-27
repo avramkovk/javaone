@@ -1,4 +1,4 @@
-package test.main.java;
+package test.exampleLesson6.main.java;
 
 public class EndlessLoop {
     public static void main(String[] args) {

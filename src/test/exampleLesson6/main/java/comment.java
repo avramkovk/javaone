@@ -1,4 +1,4 @@
-package test.main.java;
+package test.exampleLesson6.main.java;
 /*
 *
 * Задача - 2. Создайте комментарий, который будет выполнятся.

@@ -1,6 +1,4 @@
-package test.main.java;
-
-import org.w3c.dom.ls.LSOutput;
+package test.exampleLesson6.main.java;
 
 import java.util.Scanner;
 

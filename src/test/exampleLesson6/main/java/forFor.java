@@ -1,4 +1,4 @@
-package test.main.java;
+package test.exampleLesson6.main.java;
 
 public class forFor {
     public static void main(String[] args) {
