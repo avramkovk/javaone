@@ -1,6 +1,4 @@
-package test.exampleLesson7.main.java;
-
-import org.w3c.dom.ls.LSOutput;
+package javastarter.test.exampleLesson7.main.java;
 
 import java.util.Scanner;
 

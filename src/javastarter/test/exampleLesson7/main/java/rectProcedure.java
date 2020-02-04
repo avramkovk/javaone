@@ -1,4 +1,4 @@
-package test.exampleLesson7.main.java;
+package javastarter.test.exampleLesson7.main.java;
 
 
 public class rectProcedure {
