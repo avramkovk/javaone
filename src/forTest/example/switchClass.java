@@ -1,4 +1,4 @@
-package forTest;
+package forTest.example;
 
 import com.sun.security.jgss.GSSUtil;
 

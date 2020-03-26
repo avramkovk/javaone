@@ -1,5 +1,5 @@
 
-package forTest;
+package forTest.example;
 
 /*Метод boolean find() ищет очередное совпадение в тексте с шаблоном. С помощью этого метода и оператора цикла
 можно производить анализ всего текста по событийной модели (осуществлять необходимые операции при наступлении
@@ -22,7 +22,7 @@ public class exampleRegex4 {
             System.out.println("Найдено совпадение " + text.substring(start,end) + " с "+ start + " по " + (end-1) + " позицию");
         }
         System.out.println(matcher.replaceFirst("Ира"));
-        System.out.println(((Matcher) matcher).replaceAll("Ольга"));
+        System.out.println(matcher.replaceAll("Ольга"));
         System.out.println(text);
     }
 }

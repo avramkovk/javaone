@@ -1,4 +1,4 @@
-package forTest;
+package forTest.example;
 
 //Угадай букву
 public class class2 {

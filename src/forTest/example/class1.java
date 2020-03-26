@@ -1,4 +1,4 @@
-package forTest;
+package forTest.example;
 
 import java.io.IOException;
 

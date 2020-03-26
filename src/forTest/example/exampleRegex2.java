@@ -1,5 +1,5 @@
 
-package forTest;
+package forTest.example;
 
 /*static boolean matches(String regex, CharSequence input) –
 позволяет проверить регулярное выражение, переданное в параметре regex на соответствие тексту,

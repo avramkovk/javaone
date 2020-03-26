@@ -1,5 +1,5 @@
 
-package forTest;
+package forTest.example;
 
 /*String[] split(CharSequence text, int limit) – разбивает текст, переданный в качестве параметра
 на массив элементов String. Параметр limit определяет предельное количество совпадений, которое ищется в тексте:

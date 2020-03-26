@@ -40,7 +40,7 @@ public class Main {
             FileInputStream fis1 = new FileInputStream("src\\forTest\\FileOutputStream\\test.txt");
             BufferedInputStream bis = new BufferedInputStream(fis1,1000);
             int i;
-            while ((i = bis.read()) != -1) {
+            while ((i = bis.read()) != -1) { // "-1" означает конец потока
                 System.out.print((char) i);
             }
 
